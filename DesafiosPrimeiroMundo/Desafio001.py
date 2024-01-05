@@ -1,7 +1,7 @@
 '''Crie um programa que escreva "Olá, Mundo! na tela.'''
 
-#print('Olá, mundo!')
+# print('Olá, mundo!')
 
 msg = 'Olá, mundo!'
 print(msg)
-print ('Olá mundo')
+print('Olá mundo')
